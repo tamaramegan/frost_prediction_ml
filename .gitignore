@@ -1,0 +1,5 @@
+# exclude data folder
+data/*
+
+# excpetion to all files
+#!folder/file_to_keep
