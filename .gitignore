@@ -3,3 +3,7 @@ data/*
 
 # excpetion to all files
 #!folder/file_to_keep
+
+# Exclude Mac files
+.DS_Store
+.ipynb_checkpoints/*
