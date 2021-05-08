@@ -1,169 +1,78 @@
 ,station,filename,colnum,colnames,nrows
-0,Aeropuerto,Aeropuerto_5min_20130624.csv,5,"[[array(['TB1minAcc', 'RHAvg', 'ATAvg'], dtype=object)]]",28527
-1,Aeropuerto,8310_5min_20180116.csv,5,"[[array(['BAT', 'TB1hrAcc', 'RelHumidAvg', 'RelHumidMin', 'RelHumidMax',
-       'AT1HrAvg', 'AT1HrMin', 'AT1HrMax', 'WindMnSpdSclr',
-       'WindMnDirUnit', 'WindMinSpdSclr', 'WindMaxSpdSclr', 'WindMaxDir',
-       None], dtype=object)]]",14366
-2,Aeropuerto,8310_1min_20170404.csv,5,"[[array(['RHAvg', 'ATAvg', 'WSAvg', 'WDAvg', 'TB1minAcc'], dtype=object)]]",29144
-3,Aeropuerto,8310_5min_20150714_subir.csv,5,"[[array(['WD5minMax', 'WS5minAvg', 'WS5minMin', 'WS5minMax', 'TB5minAcc',
-       'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg', 'RH5minMin',
-       'RH5minMax', 'WD5minAvg', 'WD5minMin', None], dtype=object)]]",21546
-4,Aeropuerto,8310_5min_20180116_subir.csv,5,"[[array(['TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg',
-       'RH5minMin', 'RH5minMax', 'WD5minAvg', 'WS5minAvg', 'WD5minMin',
-       'WS5minMin', 'WD5minMax', 'WS5minMax', None], dtype=object)]]",168975
-5,Aeropuerto,8310_5min_20171025_subir.csv,5,"[[array(['TB1minAcc', 'ATAvg', 'RHAvg', 'WDAvg', 'WSAvg'], dtype=object)]]",324930
-6,Aeropuerto,8310_5min_20150714.csv,5,"[[array(['RHAvg', 'TB1minAcc', 'ATAvg', 'WSAvg', 'WDAvg'], dtype=object)]]",296400
-7,Aeropuerto,8310_5min_20170118.csv,5,"[[array(['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg',
-       'AT5minMin', 'AT5minMax', 'WS5minAvg', 'WS5minMin', 'WS5minMax',
-       'WD5minAvg', 'WD5minMin', 'WD5minMax', None], dtype=object)]]",154129
-8,Aeropuerto,8310_5min_20170118_subir.csv,5,"[[array(['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg',
-       'AT5minMin', 'AT5minMax', 'WD5minAvg', 'WS5minAvg', 'WS5minMin',
-       'WD5minMin', 'WS5minMax', 'WD5minMax', None], dtype=object)]]",99945
-9,Aeropuerto,8310_5min_20171025.csv,5,"[[array(['TB1minAcc', 'ATAvg', 'RHAvg', 'WSAvg', 'WDAvg'], dtype=object)]]",192210
-10,Aeropuerto,8310_1min_20180116.csv,5,"[[array(['TB1minAcc', 'ATAvg', 'RHAvg', 'WDAvg', 'WSAvg'], dtype=object)]]",245840
-11,Aeropuerto,Aeropuerto_5min_20140114.csv,5,"[[array(['TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg',
-       'RH5minMin', 'RH5minMax', 'WD5minAvg', 'WD5minMin', 'WS5minAvg',
-       'WS5minMin', 'WS5minMax', 'WD5minMax', None], dtype=object)]]",127843
-12,Aeropuerto,8310_1min_20170412.csv,5,"[[array(['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg',
-       'AT5minMin', 'AT5minMax', 'WD5minAvg', 'WD5minMin', 'WS5minAvg',
-       'WS5minMin', 'WD5minMax', 'WS5minMax', None], dtype=object)]]",377937
-13,Aeropuerto,8310_1min_20171025.csv,5,"[[array(['TB1minAcc', 'RHAvg', 'ATAvg', 'WSAvg', 'WDAvg'], dtype=object)]]",726801
-14,Aeropuerto,8310_5min_20150714.xls,5,"[[array(['RHAvg', 'WSAvg', 'WDAvg', 'TB1minAcc', 'ATAvg'], dtype=object)]]",638506
-15,Aeropuerto,8310_5min_20171107_subir.csv,5,"[[array(['TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg',
-       'RH5minMin', 'RH5minMax', 'WS5minAvg', 'WD5minAvg', 'WS5minMin',
-       'WD5minMin', 'WS5minMax', 'WD5minMax', None], dtype=object)]]",332606
-16,Aeropuerto,8310_1min_20170406.csv,6,"[[Index(['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion',
-       'Velocidad'],
-      dtype='object')]]",30293
-17,Aeropuerto,Aeropuerto_5min_20130624.xls,5,"[[array(['TB1minAcc', 'ATAvg', 'RHAvg', 'WSAvg', 'WDAvg'], dtype=object)]]",757315
-18,Aeropuerto,Aeropuerto_5min_20130828.csv,5,"[[array(['TB1minAcc', 'RHAvg', 'ATAvg', 'WDAvg', 'WSAvg'], dtype=object)]]",59715
-19,Aeropuerto,8310_5min_20160929_subir.csv,5,"[[array(['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg',
-       'AT5minMin', 'AT5minMax', 'WD5minAvg', 'WD5minMin', 'WS5minAvg',
-       'WS5minMin', 'WS5minMax', 'WD5minMax', None], dtype=object)]]",393810
-20,Aeropuerto,8310_1min_20170405.csv,6,"[[Index(['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion',
-       'Velocidad'],
-      dtype='object')]]",35670
-21,Aeropuerto,8310_5min_20171107.csv,5,"[[array(['TB1minAcc', 'RHAvg', 'ATAvg', 'WDAvg', 'WSAvg'], dtype=object)]]",891750
-22,Aeropuerto,8310_5min_20180116.xls,5,"[[array(['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg',
-       'AT5minMin', 'AT5minMax', 'WS5minAvg', 'WS5minMin', 'WD5minAvg',
-       'WD5minMin', 'WD5minMax', 'WS5minMax', None], dtype=object)]]",463711
-23,Aeropuerto,Aeropuerto_1hora_Todo.xls,6,"[[Index(['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion',
-       'Velocidad'],
-      dtype='object')]]",21005
-24,Aeropuerto,8310_1min_20171107.csv,5,"[[array(['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg',
-       'AT5minMin', 'AT5minMax', 'WD5minAvg', 'WD5minMin', 'WD5minMax',
-       'WS5minAvg', 'WS5minMin', 'WS5minMax', None], dtype=object)]]",273053
-25,Aeropuerto,Aeropuerto_5min_20130828.xls,5,"[[array(['TB1minAcc', 'ATAvg', 'RHAvg', 'WDAvg', 'WSAvg'], dtype=object)]]",525115
-26,Aeropuerto,8310_5min_20171107.xls,5,"[[array(['WSAvg', 'TB1minAcc', 'RHAvg', 'WDAvg', 'ATAvg'], dtype=object)]]",583421
-27,Aeropuerto,8310_5min_20160929.csv,6,"[[Index(['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion',
-       'Velocidad'],
-      dtype='object')]]",23337
-28,Aeropuerto,8310_1min_201711071_subir.csv,5,"[[array(['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg',
-       'AT5minMin', 'AT5minMax', 'WS5minAvg', 'WS5minMin', 'WS5minMax',
-       'WD5minAvg', 'WD5minMin', 'WD5minMax', None], dtype=object)]]",303370
-29,Aeropuerto,8310_5min_20171025.xls,6,"[[Index(['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion',
-       'Velocidad'],
-      dtype='object')]]",19007
-30,Aeropuerto,8310_1min_20170407.csv,5,"[[array(['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg',
-       'AT5minMin', 'AT5minMax', 'WS5minAvg', 'WS5minMin', 'WD5minAvg',
-       'WD5minMin', 'WD5minMax', 'WS5minMax', None], dtype=object)]]",247092
-31,Aeropuerto,8310_5min_20170118.xls,5,"[[array(['TB1minAcc', 'RHAvg', 'ATAvg', 'WDAvg', 'WSAvg'], dtype=object)]]",475181
-32,Aeropuerto,Aeropuerto_5min_20140416.csv,6,"[[Index(['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion',
-       'Velocidad'],
-      dtype='object')]]",33973
-33,Aeropuerto,8310_1min_20160919.csv,5,"[[array(['TB1minAcc', 'RHAvg', 'ATAvg', 'WDAvg', 'WSAvg'], dtype=object)]]",849320
-34,Aeropuerto,8310_1min_20171107.csv,5,"[[array(['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg',
-       'AT5minMin', 'AT5minMax', 'WS5minAvg', 'WS5minMin', 'WS5minMax',
-       'WD5minAvg', 'WD5minMin', 'WD5minMax', None], dtype=object)]]",441650
-35,Aeropuerto,8310_1min_20180920.csv,6,"[[Index(['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion',
-       'Velocidad'],
-      dtype='object')]]",21701
-36,Aeropuerto,8310_5min_2018121.csv,5,"[[array(['TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg',
-       'RH5minMin', 'RH5minMax', 'WS5minAvg', 'WS5minMin', 'WD5minAvg',
-       'WD5minMin', 'WD5minMax', 'WS5minMax', None], dtype=object)]]",282089
-37,Aeropuerto,2018-09-20.csv,5,"[[array(['TB1minAcc', 'RHAvg', 'ATAvg', 'WSAvg', 'WDAvg'], dtype=object)]]",542490
-38,Aeropuerto,Aeropuerto_5min_20140114.xls,6,"[[Index(['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion',
-       'Velocidad'],
-      dtype='object')]]",26397
-39,Aeropuerto,2017-10-30.csv,5,"[[array(['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg',
-       'AT5minMin', 'AT5minMax', 'WS5minAvg', 'WS5minMin', 'WS5minMax',
-       'WD5minAvg', 'WD5minMin', 'WD5minMax', None], dtype=object)]]",343123
-40,Aeropuerto,8310_1min_20170118.csv,6,"[[Index(['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion',
-       'Velocidad'],
-      dtype='object')]]",38384
-41,Aeropuerto,8310_5min_20180920.csv,5,"[[array(['TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg',
-       'RH5minMin', 'RH5minMax', 'WS5minAvg', 'WD5minAvg', 'WD5minMin',
-       'WD5minMax', 'WS5minMin', 'WS5minMax', None], dtype=object)]]",499027
-42,Aeropuerto,8310_1min_2018121.csv,5,"[[array(['TB1minAcc', 'RHAvg', 'WSAvg', 'WDAvg', 'ATAvg'], dtype=object)]]",959693
-43,Aeropuerto,2015-07-02.csv,5,"[[array(['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg',
-       'AT5minMin', 'AT5minMax', 'WS5minAvg', 'WS5minMin', 'WD5minAvg',
-       'WS5minMax', 'WD5minMin', 'WD5minMax', None], dtype=object)]]",360062
-44,Aeropuerto,8310_5min_20160929.xls,6,"[[Index(['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion',
-       'Velocidad'],
-      dtype='object')]]",27697
-45,Aeropuerto,2017-10-01.csv,5,"[[array(['TB1minAcc', 'ATAvg', 'RHAvg', 'WDAvg', 'WSAvg'], dtype=object)]]",692420
-46,Aeropuerto,2018-01-11.csv,6,"[[Index(['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion',
-       'Velocidad'],
-      dtype='object')]]",65161
-47,Aeropuerto,2020-01-09.csv,6,"[[Index(['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion',
-       'Velocidad'],
-      dtype='object')]]",62495
-48,Aeropuerto,2017-01-12.csv,5,"[[array(['RHAvg', 'WDAvg', 'WSAvg', 'TB1minAcc', 'ATAvg'], dtype=object)]]",638271
-49,Aeropuerto,2017-10-10.csv,5,"[[array(['RHAvg', 'WDAvg', 'WSAvg', 'TB1minAcc', 'ATAvg'], dtype=object)]]",325796
-50,Aeropuerto,Aeropuerto_5min_20140416.xls,5,"[[array(['TB1minAcc', 'ATAvg', 'RHAvg', 'WSAvg', 'WDAvg'], dtype=object)]]",312475
-51,Aeropuerto,2019-09-27.csv,6,"[[Index(['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion',
-       'Velocidad'],
-      dtype='object')]]",27697
-52,Aeropuerto,2017-04-09.csv,5,"[[array(['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg',
-       'AT5minMin', 'AT5minMax', 'WS5minAvg', 'WS5minMin', 'WD5minAvg',
-       'WS5minMax', 'WD5minMin', 'WD5minMax', None], dtype=object)]]",360062
-53,Aeropuerto,8310_5min_20180920.xls,5,"[[array(['TB1minAcc', 'ATAvg', 'RHAvg', 'WDAvg', 'WSAvg'], dtype=object)]]",692420
-54,Aeropuerto,8310_1min_20190927.csv,6,"[[Index(['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion',
-       'Velocidad'],
-      dtype='object')]]",65224
-55,Aeropuerto,2016-01-11.csv,5,"[[array(['TB1minAcc', 'ATAvg', 'RHAvg', 'WSAvg', 'WDAvg'], dtype=object)]]",326120
-56,Aeropuerto,2013-08-28.csv,6,"[[Index(['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion',
-       'Velocidad'],
-      dtype='object')]]",5737
-57,Aeropuerto,2016-08-25.csv,5,"[[array(['TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg',
-       'RH5minMin', 'RH5minMax', 'WS5minAvg', 'WS5minMin', 'WS5minMax',
-       'WD5minAvg', 'WD5minMin', 'WD5minMax', None], dtype=object)]]",74582
-58,Aeropuerto,2018-12-21.csv,5,"[[array(['ATAvg', 'RHAvg', 'TB1minAcc', 'WDAvg', 'WSAvg'], dtype=object)]]",143415
-59,Aeropuerto,8310_1min_201711071.xls,5,"[[array(['TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg',
-       'RH5minMin', 'RH5minMax', 'WS5minAvg', 'WS5minMin', 'WD5minAvg',
-       'WD5minMin', 'WS5minMax', 'WD5minMax', None], dtype=object)]]",272911
-60,Aeropuerto,2015-10-28.csv,6,"[[Index(['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion',
-       'Velocidad'],
-      dtype='object')]]",20993
-61,Aeropuerto,2018-06-13.csv,5,"[[array(['TB1minAcc', 'ATAvg', 'RHAvg', 'WDAvg', 'WSAvg'], dtype=object)]]",524835
-62,Aeropuerto,2015-04-27.csv,5,"[[array(['TB1minAcc', 'RHAvg', 'ATAvg', 'WSAvg', 'WDAvg'], dtype=object)]]",1101766
-63,Aeropuerto,2013-10-01.csv,5,"[[array(['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg',
-       'AT5minMin', 'AT5minMax', 'WD5minAvg', 'WD5minMin', 'WS5minAvg',
-       'WS5minMin', 'WS5minMax', 'WD5minMax'], dtype=object)]]",572923
-64,Aeropuerto,2014-04-09.csv,5,"[[array(['TB1minAcc', 'RHAvg', 'ATAvg', 'WDAvg', 'WSAvg'], dtype=object)]]",298595
-65,Aeropuerto,2015-02-05.csv,5,"[[array(['TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg',
-       'RH5minMin', 'RH5minMax', 'WS5minAvg', 'WD5minAvg', 'WS5minMin',
-       'WD5minMin', 'WS5minMax', 'WD5minMax'], dtype=object)]]",371059
-66,Aeropuerto,2019-04-05.csv,10,"[[Index(['Fecha', 'Temperatura', 'T_Max', 'T_Min', 'Humedad', 'H_Max', 'H_Min',
-       'Precipitacion', 'Direccion', 'Velocidad'],
-      dtype='object')]]",26534
-67,Aeropuerto,2014-01-10.csv,5,"[[array(['TB1minAcc', 'ATAvg', 'RHAvg', 'WSAvg', 'WDAvg'], dtype=object)]]",713575
-68,Aeropuerto,2014-07-23.csv,5,"[[array(['TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg',
-       'RH5minMin', 'RH5minMax', 'WS5minAvg', 'WS5minMin', 'WD5minAvg',
-       'WD5minMin', 'WS5minMax', 'WD5minMax'], dtype=object)]]",392210
-69,Aeropuerto,2019-06-27.csv,5,"[[array(['TB1minAcc', 'ATAvg', 'RHAvg', 'WSAvg', 'WDAvg'], dtype=object)]]",1119000
-70,Aeropuerto,8310_5min_20190927.csv,5,"[[array(['TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg',
-       'RH5minMin', 'RH5minMax', 'WS5minAvg', 'WS5minMin', 'WS5minMax',
-       'WD5minAvg', 'WD5minMin', 'WD5minMax', nan], dtype=object)]]",310896
-71,Aeropuerto,8310_5min_20190702_0.csv,5,"[[array(['TB1minAcc', 'ATAvg', 'RHAvg', 'WDAvg', 'WSAvg'], dtype=object)]]",597880
-72,Aeropuerto,2014-11-24.csv,5,"[[array(['TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg',
-       'RH5minMin', 'RH5minMax', 'WS5minAvg', 'WD5minAvg', 'WS5minMin',
-       'WD5minMin', 'WS5minMax', 'WD5minMax', None], dtype=object)]]",1419107
-73,Aeropuerto,8310_1min_20200109.csv,5,"[[array(['TB1minAcc', 'RHAvg', 'ATAvg', 'WDAvg', 'WSAvg'], dtype=object)]]",662251
-74,Aeropuerto,2013-06-13.csv,5,"[[array(['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg',
-       'AT5minMin', 'AT5minMax', 'WD5minAvg', 'WD5minMin', 'WS5minAvg',
-       'WS5minMin', 'WS5minMax', 'WD5minMax'], dtype=object)]]",344370
-75,Aeropuerto,8310_5min_2018121.xls,5,"[[array(['TB1minAcc', 'ATAvg', 'RHAvg', 'WDAvg', 'WSAvg'], dtype=object)]]",748450
-76,Aeropuerto,8310_1min_20190702.csv,5,"[[array(['TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg',
-       'RH5minMin', 'RH5minMax', 'WD5minAvg', 'WD5minMin', 'WS5minAvg',
-       'WD5minMax', 'WS5minMin', 'WS5minMax'], dtype=object)]]",389194
+0,Aeropuerto,Aeropuerto_5min_20130624.csv,5,"[['TB1minAcc', 'RHAvg', 'ATAvg']]",28527
+1,Aeropuerto,8310_5min_20180116.csv,5,"[['BAT', 'TB1hrAcc', 'RelHumidAvg', 'RelHumidMin', 'RelHumidMax', 'AT1HrAvg', 'AT1HrMin', 'AT1HrMax', 'WindMnSpdSclr', 'WindMnDirUnit', 'WindMinSpdSclr', 'WindMaxSpdSclr', 'WindMaxDir', None]]",14366
+2,Aeropuerto,8310_1min_20170404.csv,5,"[['RHAvg', 'ATAvg', 'WSAvg', 'WDAvg', 'TB1minAcc']]",29144
+3,Aeropuerto,8310_5min_20150714_subir.csv,5,"[['WD5minMax', 'WS5minAvg', 'WS5minMin', 'WS5minMax', 'TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'WD5minAvg', 'WD5minMin', None]]",21546
+4,Aeropuerto,8310_5min_20180116_subir.csv,5,"[['TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'WD5minAvg', 'WS5minAvg', 'WD5minMin', 'WS5minMin', 'WD5minMax', 'WS5minMax', None]]",168975
+5,Aeropuerto,8310_5min_20171025_subir.csv,5,"[['TB1minAcc', 'ATAvg', 'RHAvg', 'WDAvg', 'WSAvg']]",324930
+6,Aeropuerto,8310_5min_20150714.csv,5,"[['RHAvg', 'TB1minAcc', 'ATAvg', 'WSAvg', 'WDAvg']]",296400
+7,Aeropuerto,8310_5min_20170118.csv,5,"[['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'WS5minAvg', 'WS5minMin', 'WS5minMax', 'WD5minAvg', 'WD5minMin', 'WD5minMax', None]]",154129
+8,Aeropuerto,8310_5min_20170118_subir.csv,5,"[['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'WD5minAvg', 'WS5minAvg', 'WS5minMin', 'WD5minMin', 'WS5minMax', 'WD5minMax', None]]",99945
+9,Aeropuerto,8310_5min_20171025.csv,5,"[['TB1minAcc', 'ATAvg', 'RHAvg', 'WSAvg', 'WDAvg']]",192210
+10,Aeropuerto,8310_1min_20180116.csv,5,"[['TB1minAcc', 'ATAvg', 'RHAvg', 'WDAvg', 'WSAvg']]",245840
+11,Aeropuerto,Aeropuerto_5min_20140114.csv,5,"[['TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'WD5minAvg', 'WD5minMin', 'WS5minAvg', 'WS5minMin', 'WS5minMax', 'WD5minMax', None]]",127843
+12,Aeropuerto,8310_1min_20170412.csv,5,"[['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'WD5minAvg', 'WD5minMin', 'WS5minAvg', 'WS5minMin', 'WD5minMax', 'WS5minMax', None]]",377937
+13,Aeropuerto,8310_1min_20171025.csv,5,"[['TB1minAcc', 'RHAvg', 'ATAvg', 'WSAvg', 'WDAvg']]",726801
+14,Aeropuerto,8310_5min_20150714.xls,5,"[['RHAvg', 'WSAvg', 'WDAvg', 'TB1minAcc', 'ATAvg']]",638506
+15,Aeropuerto,8310_5min_20171107_subir.csv,5,"[['TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'WS5minAvg', 'WD5minAvg', 'WS5minMin', 'WD5minMin', 'WS5minMax', 'WD5minMax', None]]",332606
+16,Aeropuerto,8310_1min_20170406.csv,6,"[['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion', 'Velocidad']]",30293
+17,Aeropuerto,Aeropuerto_5min_20130624.xls,5,"[['TB1minAcc', 'ATAvg', 'RHAvg', 'WSAvg', 'WDAvg']]",757315
+18,Aeropuerto,Aeropuerto_5min_20130828.csv,5,"[['TB1minAcc', 'RHAvg', 'ATAvg', 'WDAvg', 'WSAvg']]",59715
+19,Aeropuerto,8310_5min_20160929_subir.csv,5,"[['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'WD5minAvg', 'WD5minMin', 'WS5minAvg', 'WS5minMin', 'WS5minMax', 'WD5minMax', None]]",393810
+20,Aeropuerto,8310_1min_20170405.csv,6,"[['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion', 'Velocidad']]",35670
+21,Aeropuerto,8310_5min_20171107.csv,5,"[['TB1minAcc', 'RHAvg', 'ATAvg', 'WDAvg', 'WSAvg']]",891750
+22,Aeropuerto,8310_5min_20180116.xls,5,"[['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'WS5minAvg', 'WS5minMin', 'WD5minAvg', 'WD5minMin', 'WD5minMax', 'WS5minMax', None]]",463711
+23,Aeropuerto,Aeropuerto_1hora_Todo.xls,6,"[['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion', 'Velocidad']]",21005
+24,Aeropuerto,8310_1min_20171107.csv,5,"[['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'WD5minAvg', 'WD5minMin', 'WD5minMax', 'WS5minAvg', 'WS5minMin', 'WS5minMax', None]]",273053
+25,Aeropuerto,Aeropuerto_5min_20130828.xls,5,"[['TB1minAcc', 'ATAvg', 'RHAvg', 'WDAvg', 'WSAvg']]",525115
+26,Aeropuerto,8310_5min_20171107.xls,5,"[['WSAvg', 'TB1minAcc', 'RHAvg', 'WDAvg', 'ATAvg']]",583421
+27,Aeropuerto,8310_5min_20160929.csv,6,"[['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion', 'Velocidad']]",23337
+28,Aeropuerto,8310_1min_201711071_subir.csv,5,"[['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'WS5minAvg', 'WS5minMin', 'WS5minMax', 'WD5minAvg', 'WD5minMin', 'WD5minMax', None]]",303370
+29,Aeropuerto,8310_5min_20171025.xls,6,"[['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion', 'Velocidad']]",19007
+30,Aeropuerto,8310_1min_20170407.csv,5,"[['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'WS5minAvg', 'WS5minMin', 'WD5minAvg', 'WD5minMin', 'WD5minMax', 'WS5minMax', None]]",247092
+31,Aeropuerto,8310_5min_20170118.xls,5,"[['TB1minAcc', 'RHAvg', 'ATAvg', 'WDAvg', 'WSAvg']]",475181
+32,Aeropuerto,Aeropuerto_5min_20140416.csv,6,"[['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion', 'Velocidad']]",33973
+33,Aeropuerto,8310_1min_20160919.csv,5,"[['TB1minAcc', 'RHAvg', 'ATAvg', 'WDAvg', 'WSAvg']]",849320
+34,Aeropuerto,8310_1min_20171107.csv,5,"[['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'WS5minAvg', 'WS5minMin', 'WS5minMax', 'WD5minAvg', 'WD5minMin', 'WD5minMax', None]]",441650
+35,Aeropuerto,8310_1min_20180920.csv,6,"[['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion', 'Velocidad']]",21701
+36,Aeropuerto,8310_5min_2018121.csv,5,"[['TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'WS5minAvg', 'WS5minMin', 'WD5minAvg', 'WD5minMin', 'WD5minMax', 'WS5minMax', None]]",282089
+37,Aeropuerto,2018-09-20.csv,5,"[['TB1minAcc', 'RHAvg', 'ATAvg', 'WSAvg', 'WDAvg']]",542490
+38,Aeropuerto,Aeropuerto_5min_20140114.xls,6,"[['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion', 'Velocidad']]",26397
+39,Aeropuerto,2017-10-30.csv,5,"[['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'WS5minAvg', 'WS5minMin', 'WS5minMax', 'WD5minAvg', 'WD5minMin', 'WD5minMax', None]]",343123
+40,Aeropuerto,8310_1min_20170118.csv,6,"[['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion', 'Velocidad']]",38384
+41,Aeropuerto,8310_5min_20180920.csv,5,"[['TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'WS5minAvg', 'WD5minAvg', 'WD5minMin', 'WD5minMax', 'WS5minMin', 'WS5minMax', None]]",499027
+42,Aeropuerto,8310_1min_2018121.csv,5,"[['TB1minAcc', 'RHAvg', 'WSAvg', 'WDAvg', 'ATAvg']]",959693
+43,Aeropuerto,2015-07-02.csv,5,"[['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'WS5minAvg', 'WS5minMin', 'WD5minAvg', 'WS5minMax', 'WD5minMin', 'WD5minMax', None]]",360062
+44,Aeropuerto,8310_5min_20160929.xls,6,"[['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion', 'Velocidad']]",27697
+45,Aeropuerto,2017-10-01.csv,5,"[['TB1minAcc', 'ATAvg', 'RHAvg', 'WDAvg', 'WSAvg']]",692420
+46,Aeropuerto,2018-01-11.csv,6,"[['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion', 'Velocidad']]",65161
+47,Aeropuerto,2020-01-09.csv,6,"[['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion', 'Velocidad']]",62495
+48,Aeropuerto,2017-01-12.csv,5,"[['RHAvg', 'WDAvg', 'WSAvg', 'TB1minAcc', 'ATAvg']]",638271
+49,Aeropuerto,2017-10-10.csv,5,"[['RHAvg', 'WDAvg', 'WSAvg', 'TB1minAcc', 'ATAvg']]",325796
+50,Aeropuerto,Aeropuerto_5min_20140416.xls,5,"[['TB1minAcc', 'ATAvg', 'RHAvg', 'WSAvg', 'WDAvg']]",312475
+51,Aeropuerto,2019-09-27.csv,6,"[['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion', 'Velocidad']]",27697
+52,Aeropuerto,2017-04-09.csv,5,"[['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'WS5minAvg', 'WS5minMin', 'WD5minAvg', 'WS5minMax', 'WD5minMin', 'WD5minMax', None]]",360062
+53,Aeropuerto,8310_5min_20180920.xls,5,"[['TB1minAcc', 'ATAvg', 'RHAvg', 'WDAvg', 'WSAvg']]",692420
+54,Aeropuerto,8310_1min_20190927.csv,6,"[['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion', 'Velocidad']]",65224
+55,Aeropuerto,2016-01-11.csv,5,"[['TB1minAcc', 'ATAvg', 'RHAvg', 'WSAvg', 'WDAvg']]",326120
+56,Aeropuerto,2013-08-28.csv,6,"[['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion', 'Velocidad']]",5737
+57,Aeropuerto,2016-08-25.csv,5,"[['TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'WS5minAvg', 'WS5minMin', 'WS5minMax', 'WD5minAvg', 'WD5minMin', 'WD5minMax', None]]",74582
+58,Aeropuerto,2018-12-21.csv,5,"[['ATAvg', 'RHAvg', 'TB1minAcc', 'WDAvg', 'WSAvg']]",143415
+59,Aeropuerto,8310_1min_201711071.xls,5,"[['TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'WS5minAvg', 'WS5minMin', 'WD5minAvg', 'WD5minMin', 'WS5minMax', 'WD5minMax', None]]",272911
+60,Aeropuerto,2015-10-28.csv,6,"[['Fecha', 'Temperatura', 'Humedad', 'Precipitacion', 'Direccion', 'Velocidad']]",20993
+61,Aeropuerto,2018-06-13.csv,5,"[['TB1minAcc', 'ATAvg', 'RHAvg', 'WDAvg', 'WSAvg']]",524835
+62,Aeropuerto,2015-04-27.csv,5,"[['TB1minAcc', 'RHAvg', 'ATAvg', 'WSAvg', 'WDAvg']]",1101766
+63,Aeropuerto,2013-10-01.csv,5,"[['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'WD5minAvg', 'WD5minMin', 'WS5minAvg', 'WS5minMin', 'WS5minMax', 'WD5minMax']]",572923
+64,Aeropuerto,2014-04-09.csv,5,"[['TB1minAcc', 'RHAvg', 'ATAvg', 'WDAvg', 'WSAvg']]",298595
+65,Aeropuerto,2015-02-05.csv,5,"[['TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'WS5minAvg', 'WD5minAvg', 'WS5minMin', 'WD5minMin', 'WS5minMax', 'WD5minMax']]",371059
+66,Aeropuerto,2019-04-05.csv,10,"[['Fecha', 'Temperatura', 'T_Max', 'T_Min', 'Humedad', 'H_Max', 'H_Min', 'Precipitacion', 'Direccion', 'Velocidad']]",26534
+67,Aeropuerto,2014-01-10.csv,5,"[['TB1minAcc', 'ATAvg', 'RHAvg', 'WSAvg', 'WDAvg']]",713575
+68,Aeropuerto,2014-07-23.csv,5,"[['TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'WS5minAvg', 'WS5minMin', 'WD5minAvg', 'WD5minMin', 'WS5minMax', 'WD5minMax']]",392210
+69,Aeropuerto,2019-06-27.csv,5,"[['TB1minAcc', 'ATAvg', 'RHAvg', 'WSAvg', 'WDAvg']]",1119000
+70,Aeropuerto,8310_5min_20190927.csv,5,"[['TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'WS5minAvg', 'WS5minMin', 'WS5minMax', 'WD5minAvg', 'WD5minMin', 'WD5minMax', nan]]",310896
+71,Aeropuerto,8310_5min_20190702_0.csv,5,"[['TB1minAcc', 'ATAvg', 'RHAvg', 'WDAvg', 'WSAvg']]",597880
+72,Aeropuerto,2014-11-24.csv,5,"[['TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'WS5minAvg', 'WD5minAvg', 'WS5minMin', 'WD5minMin', 'WS5minMax', 'WD5minMax', None]]",1419107
+73,Aeropuerto,8310_1min_20200109.csv,5,"[['TB1minAcc', 'RHAvg', 'ATAvg', 'WDAvg', 'WSAvg']]",662251
+74,Aeropuerto,2013-06-13.csv,5,"[['TB5minAcc', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'WD5minAvg', 'WD5minMin', 'WS5minAvg', 'WS5minMin', 'WS5minMax', 'WD5minMax']]",344370
+75,Aeropuerto,8310_5min_2018121.xls,5,"[['TB1minAcc', 'ATAvg', 'RHAvg', 'WDAvg', 'WSAvg']]",748450
+76,Aeropuerto,8310_1min_20190702.csv,5,"[['TB5minAcc', 'AT5minAvg', 'AT5minMin', 'AT5minMax', 'RH5minAvg', 'RH5minMin', 'RH5minMax', 'WD5minAvg', 'WD5minMin', 'WS5minAvg', 'WD5minMax', 'WS5minMin', 'WS5minMax']]",389194
