@@ -10,3 +10,5 @@ data/*
 
 # Exclude docx files
 *.docx
+
+# Exclude pdfs
