@@ -1,5 +1,7 @@
 # exclude data folder
 data/*
+Docs/
+Figures/
 
 # excpetion to all files
 #!folder/file_to_keep
